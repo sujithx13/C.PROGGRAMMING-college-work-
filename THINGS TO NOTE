@@ -1,0 +1,2 @@
+Use <cstdio> in C++ to use C functions like printf and scanf which makes it easier to get inputs and outputs without the & whenever not needed.
+<algorithm> has hell lotta functions and is prolly a cheat code to use.
